@@ -137,4 +137,6 @@
 			</body>
 		</html>
 	</xsl:template>
-</xsl:transform>
+</xsl:transform> 
+
+//xslt3 -xsl:PaddysCafe.xsl -s:PaddysCafe.xml -o:PaddysCafe.html -t
