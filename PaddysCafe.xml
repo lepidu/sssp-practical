@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+	<category name="Drinks">
+		<food>
+			<item>Americano</item>
+			<price>3.00</price>
+		</food>
+		<food>
+			<item>Hot Chocolote</item>
+			<price>3.95</price>
+		</food>
+		<food vegetarian="true">
+			<item>Chai tea</item>
+			<price>3.50</price>
+		</food>
+	</category>
+	<category name="Side_dishes">
+		<food>
+			<item>Cinnamon Rolls</item>
+			<price>3.00</price>
+		</food>
+		<food>
+			<item>Croissants</item>
+			<price>2.90</price>
+		</food>
+		<food vegetarian="true">
+			<item>Fuit salad</item>
+			<price>4.50</price>
+		</food>
+	</category>
+	<category name="Breakfast">
+		<food>
+			<item>Irish Breakfast</item>
+			<price>11.50</price>
+		</food>
+		<food>
+			<item>Pancakes</item>
+			<price>10.95</price>
+		</food>
+		<food vegetarian="true">
+			<item>Avocado Toast</item>
+			<price>9.50</price>
+		</food>
+	</category>
+	<category name="Lunch">
+		<food>
+			<item>Chicken Caesar</item>
+			<price>10.90</price>
+		</food>
+		<food>
+			<item>Soup of the day</item>
+			<price>10.95</price>
+		</food>
+		<food vegetarian="true">
+			<item>Caprese Salad</item>
+			<price>9.50</price>
+		</food>
+	</category>
+	<category name="Dinner">
+		<food>
+			<item>Pizza</item>
+			<price>11.50</price>
+		</food>
+		<food>
+			<item>Burger</item>
+			<price>10.50</price>
+		</food>
+		<food vegetarian="true">
+			<item>Burrito bowl</item>
+			<price>9.50</price>
+		</food>
+	</category>
+</menu> 
